@@ -1,40 +1,103 @@
-<<<<<<< HEAD
-# Personal-Portfolio
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio Website
 
-## Getting Started
+## Overview
 
-First, run the development server:
+The **Personal Portfolio Website** is a modern, high-performance web application designed to present my professional profile, technical expertise, and project work in a **clear, bold, and future-focused manner**. Built using **Next.js and TypeScript**, the site emphasizes **performance, accessibility, and strong visual identity**, while maintaining a clean and minimal architecture with no backend dependencies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project serves as a **digital professional identity**, showcasing my experience as a **Software Engineer with 2 years of industry experience**, and demonstrates practical expertise in **modern front-end engineering, design systems, and web performance optimization**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Objectives
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Establish a strong professional online presence for recruiters and senior stakeholders
+* Communicate technical expertise and experience with clarity and precision
+* Showcase selected projects with a focus on impact and engineering decisions
+* Deliver a fast, accessible, and SEO-optimized web experience
+* Demonstrate proficiency in modern front-end frameworks and tooling
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* **Bold and Futuristic Design Language**
+  A visually distinctive interface with intentional motion and strong typography to leave a lasting impression.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+* **High-Performance Static Architecture**
+  Built as a static-first application to ensure fast load times and excellent Core Web Vitals.
 
-## Deploy on Vercel
+* **Project-Centric Presentation**
+  Curated project sections highlighting problem statements, technical contributions, and outcomes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* **Responsive and Accessible UI**
+  Fully responsive layout with accessibility best practices for inclusive user experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> master
+* **SEO and Social Sharing Optimization**
+  Structured metadata and OpenGraph support for discoverability and professional sharing.
+
+---
+
+## Tech Stack
+
+* **Framework:** Next.js (App Router)
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS
+* **UI Components:** shadcn/ui, Radix UI
+* **Animations:** Framer Motion
+* **Content Management:** MDX
+* **Deployment & Hosting:** Vercel
+
+---
+
+## Skills Demonstrated
+
+* Modern Front-End Engineering
+* TypeScript and Component-Driven Development
+* Responsive Design and UX/UI Principles
+* Web Performance Optimization
+* SEO, Accessibility, and Best Practices
+* Technical Communication and Personal Branding
+
+---
+
+## Application Workflow
+
+1. **Landing and Introduction**
+
+   * Visitors are immediately presented with a concise professional summary and role definition.
+
+2. **Project Exploration**
+
+   * Users can explore selected projects, each detailing the problem, solution approach, and technologies used.
+
+3. **Experience and Skill Overview**
+
+   * A structured overview of professional experience, technical skills, and areas of expertise.
+
+4. **Contact and Engagement**
+
+   * Clear call-to-action for recruiters and collaborators to connect via email or professional platforms.
+
+---
+
+## Project Screenshots
+
+![Portfolio Hero Section](path/to/your/hero.png)
+
+![Projects Showcase](path/to/your/projects.png)
+
+![About and Experience Section](path/to/your/about.png)
+
+---
+
+## Why This Project Matters
+
+This portfolio represents more than a personal website. It reflects **engineering judgment, design sensibility, and execution discipline**. By prioritizing performance, clarity, and modern tooling over unnecessary complexity, the project demonstrates how thoughtful front-end engineering can effectively communicate value and credibility to recruiters and senior decision-makers.
+
+---
+
+## Keywords (ATS Optimization)
+
+`Next.js`, `TypeScript`, `Front-End Development`, `Personal Portfolio`,
+`Modern Web Applications`, `Web Performance`, `Responsive Design`,
+`UI/UX Engineering`, `SEO Optimization`, `Software Engineer`
