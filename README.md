@@ -1,5 +1,6 @@
 # Personal Portfolio Website
 
+
 ## Overview
 
 The **Personal Portfolio Website** is a modern, high-performance web application designed to present my professional profile, technical expertise, and project work in a **clear, bold, and future-focused manner**. Built using **Next.js and TypeScript**, the site emphasizes **performance, accessibility, and strong visual identity**, while maintaining a clean and minimal architecture with no backend dependencies.
