@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 
 # Work In Progress
-Currently working on UI/UX
+Currently working on UI/UX - Curating Information to be on website
 
 ## Overview
 
