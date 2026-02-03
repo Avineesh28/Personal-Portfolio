@@ -2,7 +2,7 @@
 
 
 # Work In Progress
-Currently working on UI/UX - Curating Information to be on website - Day 2 working on curation
+Fixating Curating data in Ts
 
 ## Overview
 
