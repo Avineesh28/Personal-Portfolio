@@ -2,7 +2,7 @@
 
 
 # Work In Progress
-Fixating Curating data in Ts
+Ready for the changes to reflect - Working on CSS
 
 ## Overview
 
