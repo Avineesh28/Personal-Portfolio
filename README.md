@@ -1,6 +1,5 @@
 # Personal Portfolio Website
 
-
 # Work In Progress
 final working changes before push
 
